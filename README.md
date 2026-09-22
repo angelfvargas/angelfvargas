@@ -16,6 +16,10 @@ Busco práctica en desarrollo, datos o IA aplicada — presencial en Cali o remo
 | [**sesenta**](https://github.com/angelfvargas/sesenta) | Diagnóstico de un servidor Linux en un solo comando: recoge sistema, almacenamiento, red y servicios, y concluye una causa con el método USE. |
 | [**postula**](https://github.com/angelfvargas/postula) | Envía correos de postulación personalizados con CV adjunto, sin escribirle dos veces a la misma empresa. |
 
+### Tech Lab en acción
+
+![Demo de Tech Lab: auditoría de góndola, extracción de documentos y tablero](techlab-demo.gif)
+
 ## Stack
 
 **Uso en producción propia:** Python · SQL · Git/GitHub · Linux
